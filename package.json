@@ -3,7 +3,7 @@
     "displayName": "Coding in the Sun!",
     "description": "A light high contrast theme for Visual Studio Code, perfect for coding in the Sun!",
     "publisher": "Fasani",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.45.0"
     },
