@@ -1,14 +1,22 @@
 {
     "name": "coding-in-the-sun",
     "displayName": "Coding in the Sun!",
-    "description": "A light high contrast theme, perfect for coding in the Sun!",
-    "version": "0.0.1",
+    "description": "A light high contrast theme for Visual Studio Code, perfect for coding in the Sun!",
+    "publisher": "Fasani",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.45.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Theme",
+        "Light Theme",
+        "High Contrast",
+        "Black and White"
+    ],
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [
             {
@@ -17,5 +25,9 @@
                 "path": "./themes/coding-in-the-sun-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Fasani/coding-in-the-sun.git"
     }
 }

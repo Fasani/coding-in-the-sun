@@ -1,13 +1,32 @@
-# README
-## This is the README for your extension "coding-in-the-sun"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Coding in the Sun!
+![license: MIT](https://img.shields.io/badge/license-MIT-A31F34)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+> A light high contrast theme for [Visual Studio Code](http://code.visualstudio.com).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+You can have the most colourful and prettiest theme in the world, but if you can't see your code it's useless! Give this theme a try next time you are sat outside!
 
-**Enjoy!**
+During the #COVID19 lockdown, I was spending time outside coding on my balcony. I put this theme together to use while coding in the Sun!
+
+![screenshot](https://raw.githubusercontent.com/Fasani/coding-in-the-sun/master/images/screenshot.png)
+
+## Addons
+- [Simple icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons)
+Black and white icons used in the screenshot.
+
+## Issues
+Use [GitHub issues](https://github.com/fasani/coding-in-the-sun) to report problems or make requests.
+
+## Tested with these languages (so far)
+- JavaScript
+- HTML
+- CSS
+
+## Contribute
+I am happy to take pull requests but please follow the rules:
+
+1. All commit message must contain an emoji sun at the end of the message like this. 🌞
+2. Please include screenshots, before and after the change so I can better validate the change.
+3. If working with a new language please add a sample file to the `demos` folder.
+
+## License
+[MIT License](https://github.com/Fasani/coding-in-the-sun/blob/master/LICENSE.md)
