@@ -1,0 +1,21 @@
+{
+    "name": "coding-in-the-sun",
+    "displayName": "Coding in the Sun!",
+    "description": "A light high contrast theme, perfect for coding in the Sun!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coding in the Sun!",
+                "uiTheme": "vs",
+                "path": "./themes/coding-in-the-sun-color-theme.json"
+            }
+        ]
+    }
+}
